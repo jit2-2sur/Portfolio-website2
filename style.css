@@ -302,7 +302,7 @@ section {
 .details-container {
   padding: 1.5rem;
   flex: 1;
-  background: rgb(245, 255, 253);
+  background: rgb(245, 255, 253, 0.3);
   border-radius: 2rem;
   border: rgb(53, 53, 53) 0.1rem solid;
   border-color: rgb(163, 163, 163);
@@ -318,6 +318,10 @@ section {
   height: 400px;
   width: 400px;
   margin: auto 0;
+}
+
+.about-text{
+  padding: 30px;
 }
 
 /* Education section*/
@@ -412,7 +416,7 @@ article .icon {
     border-radius: 2rem;
     border: rgb(53, 53, 53) 0.1rem solid;
     border-color: rgb(163, 163, 163);
-    background: rgb(247, 255, 254);
+    background: rgb(247, 255, 254, 0.3);
     margin: 2rem auto;
     padding: 0.5rem;
     width: 100%;
@@ -441,7 +445,7 @@ article .icon {
   border-radius: 2rem;
   border: rgb(53, 53, 53) 0.1rem solid;
   border-color: rgb(163, 163, 163);
-  background:  rgb(247, 255, 254);
+  background:  rgb(247, 255, 254, 0.3);
   margin: 2rem auto;
   padding: 0.5rem;
   width: 100%;
